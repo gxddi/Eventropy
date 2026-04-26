@@ -4,6 +4,8 @@ A desktop app for event planning that uses AI agents to handle logistics — dra
 
 Built with Electron, React, and Claude (Anthropic).
 
+[https://devpost.com/software/eventropy](https://devpost.com/software/eventropy)
+
 ---
 
 ## The Problem
